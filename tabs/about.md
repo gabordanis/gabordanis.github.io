@@ -8,4 +8,7 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+
+Hello, I'm Gábor. I created this blog so that I can share my thoughts and tips in software development. 
+
+Currently working in the Java / Spring realm for backend with Angular and Flutter for frontend. Somewhat fancying Microsoft / .NET technologies as well, but struggling to find the time for them :( 
